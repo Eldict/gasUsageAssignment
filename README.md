@@ -7,7 +7,7 @@ OUTPUT "Enter the name of the customer:"
 INPUT customer's name and store it in the variable customerName.
 OUTPUT "Enter your annual Kwh gas usage:"
 INPUT annual kWh gas usage and store it in the variable KwhUsage.
-SET CF as a DecimalFormat for currency with the format " ###,###.00" to be used later.
+SET CF as a DecimalFormat for currency with the format " ###,###.00" to be used later. 
 SET CarbonTax = 0.877 and VatTax = 0.09.
 
 SSE ELECTRICTY:
