@@ -3,6 +3,7 @@ This is an assignment I made during college. This assignment focuses on the gas 
 
 
 **Algorithm:**
+
 OUTPUT "Enter the name of the customer:"
 INPUT customer's name and store it in the variable customerName.
 OUTPUT "Enter your annual Kwh gas usage:"
